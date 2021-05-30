@@ -16,6 +16,7 @@ namespace CarNumberRecognizer
 {
     public partial class Form1 : Form
     {
+        // распознование номеров машин
         private NumberPlateRecognizer plateRecognizer;
 
         private Point startPoint;
